@@ -78,16 +78,19 @@
 
 ## 📊 &nbsp;Stats &nbsp;`戦績`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xhaiwa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=BB9AF7&icon_color=7AA2F7&text_color=A9B1D6&ring_color=BB9AF7" alt="stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=xhaiwa&hide_border=true&background=0D1117&stroke=1a1b27&ring=BB9AF7&fire=7AA2F7&currStreakLabel=BB9AF7&sideLabels=A9B1D6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=565f89" alt="streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xhaiwa&theme=tokyonight" width="96%" alt="profile details"/>
+
+<img height="175" src="https://streak-stats.demolab.com?user=xhaiwa&hide_border=true&background=1A1B27&stroke=1A1B27&ring=BF91F3&fire=70A5FD&currStreakLabel=BF91F3&sideLabels=A9B1D6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=565F89" alt="streak"/>
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xhaiwa&theme=tokyonight&utcOffset=2" alt="productive time"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhaiwa&layout=compact&langs_count=8&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=BB9AF7&text_color=A9B1D6" alt="top languages"/>
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xhaiwa&theme=tokyonight" alt="repos per language"/>
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xhaiwa&theme=tokyonight" alt="most commit language"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xhaiwa&theme=tokyo-night&bg_color=0D1117&color=A9B1D6&line=BB9AF7&point=7AA2F7&area=true&hide_border=true" width="98%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xhaiwa&theme=tokyo-night&bg_color=1A1B27&color=A9B1D6&line=BF91F3&point=70A5FD&area=true&hide_border=true" width="96%" alt="activity graph"/>
 
 <br/><br/>
 
