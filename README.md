@@ -1,6 +1,6 @@
 <img align="right" src="https://aniyuki.com/wp-content/uploads/2021/09/aniyuki-sad-anime-gif-43.gif" width="300" alt="anime gif"/>
 
-### Hey, I'm Clément (xhaiwa)
+### Hey, I'm xhaiwa
 
 I mostly write C and Rust for low-level stuff, and TypeScript / Next.js when it needs a UI.
 
